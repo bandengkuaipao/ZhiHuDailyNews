@@ -1,0 +1,7 @@
+platform:ios,'9.0'
+target 'ZhiHuDailyNews' do
+	pod 'AFNetworking','~>3.0.4'
+	pod 'Masonry'
+	pod 'JSONModel'
+end
+
